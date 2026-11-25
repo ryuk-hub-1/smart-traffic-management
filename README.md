@@ -93,6 +93,20 @@ The database file `smart_traffic.db` is automatically created and populated upon
 
 ---
 
+## 📦 Java Source Code Access & Submission Formats
+
+For academic evaluation, lab records, and university portal submissions, the source code is provided in three convenient formats:
+
+1. **Modular MVC Package Structure (Standard Project Architecture)**:
+   - All 82 individual `.java` files are organized under: **[`src/main/java/com/smarttraffic/`](src/main/java/com/smarttraffic/)**
+   - Cleanly decoupled into `model/`, `view/`, `controller/`, `dao/`, `service/`, `util/`, and `exception/`.
+2. **Standalone All-In-One Source File (Root `.java` Submission)**:
+   - **[`SmartTrafficManagementSystem.java`](SmartTrafficManagementSystem.java)**: A complete, self-contained, fully functional single `.java` desktop application in the repository root. Ideal for submission portals requiring a single `.java` upload.
+3. **Consolidated Source ZIP**:
+   - **[`SmartTraffic_All_Java_Source_Files.zip`](SmartTraffic_All_Java_Source_Files.zip)**: Quick archive containing all `.java` source files in one download.
+
+---
+
 ## 🚀 Execution & Setup Instructions
 
 ### Prerequisites
